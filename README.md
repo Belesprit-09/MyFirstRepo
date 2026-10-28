@@ -12,3 +12,10 @@ This is my first GitHub repository, created as part of a lab exercise to learn G
 
 - Git
 - GitHub
+
+## Branching and Merging
+
+This change was made on the feature1 branch.
+
+Author: Krishna Soni
+Date: 28 October 2026
